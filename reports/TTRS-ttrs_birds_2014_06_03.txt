@@ -1,0 +1,67 @@
+Report for Institution Code TTRS, Resource ttrs_birds
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 37
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-06 ; Times: 5
+	Date: 2014-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""loggerhead shrike" media:1" ; Times: 1
+	Query: "Limnothlypis swainsonii type:observation" ; Times: 1
+	Query: ""prothonotary warbler" media:1" ; Times: 1
+	Query: "prothonotary warbler" ; Times: 2
+	Query: ""cerulean warbler" media:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1679 download events in this period)
+Total number of records downloaded: 3955 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3945
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 4
+	Date: 2014-05-20 ; Times: 1
+	Date: 2014-05-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "type:observation" ; Times: 1
+	Query: ""Campylorhynchus brunneicapillus"" ; Times: 1
+	Query: ""Toxostoma crissale"" ; Times: 1
+	Query: "egretta rufescens" ; Times: 1
+	Query: ""Athene cunicularia"" ; Times: 1
+	Query: ""Aquila chrysaetos"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 6
+Total number of records retrieved from searches: 37
+Number of download events that retrieved data from the resource: 28
+Total number of records downloaded: 4313
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 6
+Total number of records retrieved from searches: 37
+Number of download events that retrieved data from the resource: 67
+Total number of records downloaded: 4603
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
