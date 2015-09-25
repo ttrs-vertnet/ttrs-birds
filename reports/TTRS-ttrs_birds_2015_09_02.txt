@@ -1,0 +1,98 @@
+Report for Institution Code TTRS, Resource Ornithology
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 120
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-11 ; Times: 2
+	Date: 2015-08-12 ; Times: 4
+	Date: 2015-08-15 ; Times: 2
+	Date: 2015-08-19 ; Times: 2
+	Date: 2015-08-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gymnogyps californianus TTRS" ; Times: 1
+	Query: "Megaceryle (skel OR skeleton)" ; Times: 1
+	Query: "anhinga (skel OR skeleton)" ; Times: 1
+	Query: "yellow rail" ; Times: 1
+	Query: "Starnoenas" ; Times: 1
+	Query: "aves Georgia United States TTRS 1724.00" ; Times: 1
+	Query: "aves Georgia United States TTRS 113.00" ; Times: 1
+	Query: "aves Georgia United States TTRS 1725.00" ; Times: 1
+	Query: "country:"cuba" class:aves year >= 1913 year <= 1914" ; Times: 1
+	Query: "Mottled Duck" ; Times: 1
+	Query: ""mountain plover"" ; Times: 1
+	Query: "aves Georgia United States TTRS" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1138 download events in this period)
+Total number of records downloaded: 97 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 90
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-04 ; Times: 3
+	Date: 2015-08-05 ; Times: 1
+	Date: 2015-08-06 ; Times: 2
+	Date: 2015-08-10 ; Times: 1
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-16 ; Times: 1
+	Date: 2015-08-17 ; Times: 5
+	Date: 2015-08-25 ; Times: 1
+	Date: 2015-08-27 ; Times: 1
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "tabasco" ; Times: 2
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "gymnogyps type:specimen" ; Times: 1
+	Query: "Starnoenas" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Polioptila caerulea" ; Times: 1
+	Query: "coturnicops noveboracensis" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "Coccyzus minor type:specimen" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "class:aves (feather)" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "rallus limicola" ; Times: 1
+	Query: "catharus minimus" ; Times: 1
+	Query: "Quiscalus mexicanus type:specimen" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "year:1858" ; Times: 1
+	Query: "sora" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 12
+Total number of records retrieved from searches: 120
+Number of download events that retrieved data from the resource: 21
+Total number of records downloaded: 97
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 12
+Total number of records retrieved from searches: 120
+Number of download events that retrieved data from the resource: 21
+Total number of records downloaded: 97
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
