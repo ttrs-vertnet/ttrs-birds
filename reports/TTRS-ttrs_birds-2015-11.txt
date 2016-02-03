@@ -1,0 +1,70 @@
+Report for Institution Code TTRS, Resource ttrs_birds
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 9
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Russia ; Times: 6
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-05 ; Times: 1
+	Date: 2015-11-24 ; Times: 1
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+	Date: 2015-11-15 ; Times: 1
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "elf" ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 751 download events in this period)
+Total number of records downloaded: 205
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Belgium ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-24 ; Times: 1
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-30 ; Times: 2
+	Date: 2015-11-02 ; Times: 1
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-21 ; Times: 2
+	Date: 2015-11-04 ; Times: 1
+	Date: 2015-11-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "puffinus" ; Times: 1
+	Query: "NAYARIT" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "class:Aves country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT scintilla NOT ardens NOT flammula NOT platycercus NOT rufus NOT calliope NOT torridus NOT simoni)" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1977" ; Times: 1
+	Query: "Corvus corax type:specimen" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1986" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT rufus AND NOT platycercus)" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 1
+
+
+End of report.
