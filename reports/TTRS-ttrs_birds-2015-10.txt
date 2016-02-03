@@ -1,0 +1,69 @@
+Report for Institution Code TTRS, Resource ttrs_birds
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 16
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Swallow-tailed Kite" ; Times: 1
+	Query: "white-tailed tropicbird" ; Times: 1
+	Query: "cardinalis cardinalis type:specimen media:1" ; Times: 1
+	Query: "yellow rail" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "&#34;house sparrow&#34; media:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 823 download events in this period)
+Total number of records downloaded: 103
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-18 ; Times: 2
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "american tree sparrow" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "white-tailed tropicbird" ; Times: 1
+	Query: "vireo olivaceus type:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "yellow rail" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "sora" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+
+
+End of report.
