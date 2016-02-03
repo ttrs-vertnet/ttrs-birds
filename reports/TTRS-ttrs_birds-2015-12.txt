@@ -1,0 +1,70 @@
+Report for Institution Code TTRS, Resource ttrs_birds
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 53
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Canada ; Times: 5
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 2
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-06 ; Times: 3
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-10 ; Times: 2
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "elf" ; Times: 8
+	Query: "Cardellina canadensis" ; Times: 4
+	Query: "saltmarsh sparrow" ; Times: 1
+	Query: "Setophaga citrina" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 889 download events in this period)
+Total number of records downloaded: 136
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 4
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "european starling" ; Times: 2
+	Query: "Troglodytes" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "Ammodramus caudacutus" ; Times: 1
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Empidonax occidentalis" ; Times: 1
+	Query: "Archilochus type:specimen mappable:1" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "rio grande do sul" ; Times: 1
+
+
+End of report.
