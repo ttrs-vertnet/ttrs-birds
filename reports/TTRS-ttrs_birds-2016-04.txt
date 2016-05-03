@@ -1,0 +1,88 @@
+Report for Institution Code TTRS, Resource ttrs_birds
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 69
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Canada ; Times: 27
+	Country: Russia ; Times: 18
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-13 ; Times: 21
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-14 ; Times: 5
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-27 ; Times: 4
+	Date: 2016-04-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Riparia riparia ONTARIO 1" ; Times: 2
+	Query: "dendrocygna county:&#34;pima&#34;" ; Times: 1
+	Query: "Blue-headed Quail-Dove" ; Times: 1
+	Query: "tachycineta cyaneoviridis" ; Times: 1
+	Query: "Hirundo rustica  ONTARIO 1" ; Times: 2
+	Query: "Bachman warbler" ; Times: 1
+	Query: "Hirundo rustica  Ontario 1" ; Times: 1
+	Query: "elf" ; Times: 20
+	Query: "Riparia riparia Ontario" ; Times: 10
+	Query: "Riparia riparia Ontario 1" ; Times: 1
+	Query: "dendrocygna county:&#34;pima&#34; year &gt;= 1965 year &lt;= 1965" ; Times: 1
+	Query: "Hirundo rustica  Ontario" ; Times: 10
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Agelaius phoeniceus Florida nassau County" ; Times: 1
+	Query: "bahama swallow" ; Times: 1
+	Query: "Asio AND Santa Rosa Island" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1312 download events in this period)
+Total number of records downloaded: 59
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-15 ; Times: 2
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "tachycineta cyaneoviridis" ; Times: 1
+	Query: "Egretta rufescens stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Pileated Woodpecker" ; Times: 2
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "selasphorus platycercus" ; Times: 1
+
+
+End of report.
