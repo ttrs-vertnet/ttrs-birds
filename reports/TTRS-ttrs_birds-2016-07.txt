@@ -1,0 +1,109 @@
+Report for Institution Code TTRS, Resource ttrs_birds
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 56
+Number of records retrieved in searches: 254
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Unknown ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-24 ; Times: 1
+	Date: 2016-07-13 ; Times: 1
+	Date: 2016-07-06 ; Times: 1
+	Date: 2016-07-07 ; Times: 46
+	Date: 2016-07-18 ; Times: 4
+	Date: 2016-07-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2119.00 institutioncode:TTRS" ; Times: 2
+	Query: "catalognumber:2130.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:211.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2143.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2146.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2127.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2589.00 institutioncode:TTRS" ; Times: 2
+	Query: "catalognumber:2934.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2122.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2121.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2134.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2118.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2137.00 institutioncode:TTRS" ; Times: 1
+	Query: "Dendrocygna autumnalis 1" ; Times: 1
+	Query: "catalognumber:2151.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2148.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2140.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2139.00 institutioncode:TTRS" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Gracula religiosa 1" ; Times: 1
+	Query: "catalognumber:2142.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2136.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2133.00 institutioncode:TTRS" ; Times: 1
+	Query: "Streptopelia roseogrisea 1" ; Times: 1
+	Query: "catalognumber:2152.00 institutioncode:TTRS" ; Times: 2
+	Query: "catalognumber:2132.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2141.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2123.00 institutioncode:TTRS" ; Times: 1
+	Query: "gbifdatasetid:2f897875-210a-43a9-bab3-a724bea8e400" ; Times: 1
+	Query: "catalognumber:2120.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2149.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2150.00 institutioncode:TTRS" ; Times: 3
+	Query: "&#34;Eurasian Collared-Dove&#34;" ; Times: 3
+	Query: "2f897875-210a-43a9-bab3-a724bea8e400" ; Times: 1
+	Query: "catalognumber:2138.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2117.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2147.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2128.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2144.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2124.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2131.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2125.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2291.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2135.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2126.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2153.00 institutioncode:TTRS" ; Times: 1
+	Query: "catalognumber:2129.00 institutioncode:TTRS" ; Times: 1
+	Query: "Myiopsitta monachus 1" ; Times: 1
+	Query: "catalognumber:2145.00 institutioncode:TTRS" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1219 download events in this period)
+Total number of records downloaded: 145
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 5
+	Date: 2016-07-10 ; Times: 1
+	Date: 2016-07-26 ; Times: 1
+	Date: 2016-07-07 ; Times: 1
+	Date: 2016-07-22 ; Times: 3
+	Date: 2016-07-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "catharus guttatus" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "motacilla" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "&#34;Santa Rosa Island&#34;" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;presidio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "&#34;Anser albifrons&#34;" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
