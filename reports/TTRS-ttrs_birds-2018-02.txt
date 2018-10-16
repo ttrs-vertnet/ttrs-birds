@@ -1,0 +1,84 @@
+Report for Institution Code TTRS, Resource ttrs_birds
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 38
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-20 ; Times: 6
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-26 ; Times: 4
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "red knot vntype:specimen year &gt;= 1800 year &lt;= 2000 month &gt;= 5 month &lt;= 5 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eudocimus albus mappable:1" ; Times: 2
+	Query: "progne cryptoleuca" ; Times: 1
+	Query: "atlantic puffin" ; Times: 1
+	Query: "Coragyps atratus mappable:1" ; Times: 2
+	Query: "albino robin" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "class:Aves locality:Alabama" ; Times: 1
+	Query: "progne elegans" ; Times: 1
+	Query: "Aythya valisineria mappable:1" ; Times: 2
+	Query: "bicknelli" ; Times: 1
+	Query: "recordedby:beck year &gt;= 1922 year &lt;= 1922 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "bobolink" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1892 download events in this period)
+Total number of records downloaded: 86
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "coereba" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "Larus fuscus" ; Times: 1
+	Query: "Chroicocephalus ridibundus" ; Times: 1
+	Query: "window class:Aves" ; Times: 2
+	Query: "window" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "class:Aves country:&#34;Sudan&#34;" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "red knot" ; Times: 1
+
+
+End of report.
