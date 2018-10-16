@@ -1,0 +1,55 @@
+Report for Institution Code TTRS, Resource ttrs_birds
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 11
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-04 ; Times: 2
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cape May Warbler" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "Long-billed Dowitcher" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1178 download events in this period)
+Total number of records downloaded: 35
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tlaxcala" ; Times: 1
+	Query: "icterus gularis" ; Times: 1
+	Query: "Cape May Warbler" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "Tyrannus caudifasciatus" ; Times: 1
+
+
+End of report.
