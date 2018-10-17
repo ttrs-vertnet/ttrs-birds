@@ -1,0 +1,108 @@
+Report for Institution Code TTRS, Resource ttrs_birds
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 189
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 15
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 47
+	Country: China ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-19 ; Times: 13
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-24 ; Times: 46
+	Date: 2018-07-25 ; Times: 2
+	Date: 2018-07-01 ; Times: 2
+	Date: 2018-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Contopus cooperi mappable:1" ; Times: 1
+	Query: "Egretta caerulea mappable:1" ; Times: 1
+	Query: "Haematopus palliatus mappable:1" ; Times: 1
+	Query: "pterodroma hasitata" ; Times: 13
+	Query: "Ardea alba mappable:1" ; Times: 1
+	Query: "Laterallus jamaicensis mappable:1" ; Times: 1
+	Query: "Tringa semipalmata mappable:1" ; Times: 1
+	Query: "Nyctanassa violacea mappable:1" ; Times: 1
+	Query: "Stercorarius parasiticus mappable:1" ; Times: 1
+	Query: "Cardellina canadensis mappable:1" ; Times: 1
+	Query: "Calidris himantopus mappable:1" ; Times: 1
+	Query: "Actitis macularius mappable:1" ; Times: 2
+	Query: "Oporornis agilis mappable:1" ; Times: 1
+	Query: "Cistothorus platensis mappable:1" ; Times: 1
+	Query: "Mycteria americana mappable:1" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "Bartramia longicauda mappable:1" ; Times: 1
+	Query: "elf" ; Times: 5
+	Query: "Dendrocygna autumnalis" ; Times: 2
+	Query: "Fregata magnificens mappable:1" ; Times: 1
+	Query: "Setophaga fusca mappable:1" ; Times: 1
+	Query: "Bubulcus ibis mappable:1" ; Times: 1
+	Query: "Chordeiles acutipennis" ; Times: 2
+	Query: "Ictinia mississippiensis mappable:1" ; Times: 1
+	Query: "Anas bahamensis" ; Times: 2
+	Query: "Limosa fedoa mappable:1" ; Times: 1
+	Query: "Setophaga striata mappable:1" ; Times: 1
+	Query: "Pterodroma hasitata basisofrecord:PreservedSpecimen hasmedia:1" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 2
+	Query: "Nomonyx dominicus" ; Times: 2
+	Query: "Gallinula galeata mappable:1" ; Times: 1
+	Query: "Setophaga cerulea mappable:1" ; Times: 1
+	Query: "Dendrocygna bicolor mappable:1" ; Times: 1
+	Query: "Anhinga anhinga mappable:1" ; Times: 1
+	Query: "Eudocimus albus mappable:1" ; Times: 1
+	Query: "Parkesia noveboracensis mappable:1" ; Times: 1
+	Query: "semipalmata florida" ; Times: 2
+	Query: "Phaethon aethereus" ; Times: 2
+	Query: "Tachybaptus dominicus" ; Times: 2
+	Query: "Chordeiles acutipennis mappable:1" ; Times: 1
+	Query: "Vireo altiloquus mappable:1" ; Times: 1
+	Query: "Coragyps atratus mappable:1" ; Times: 1
+	Query: "Pterodroma hasitata hasmedia:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 977 download events in this period)
+Total number of records downloaded: 88
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-02 ; Times: 2
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Geothlypis tolmiei" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Peucaea aestivalis" ; Times: 1
+	Query: "pterodroma hasitata" ; Times: 2
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "Catharus ustulatus" ; Times: 1
+	Query: "Barred owl" ; Times: 1
+	Query: "Poecile gambeli" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+
+
+End of report.
