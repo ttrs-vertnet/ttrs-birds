@@ -1,0 +1,78 @@
+Report for Institution Code TTRS, Resource ttrs_birds
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 110
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-12 ; Times: 3
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "la joya veracruz" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "Progne elegans" ; Times: 2
+	Query: "monk parakeet" ; Times: 1
+	Query: "wood stork" ; Times: 1
+	Query: "gbifdatasetid:2f897875-210a-43a9-bab3-a724bea8e400" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 846 download events in this period)
+Total number of records downloaded: 213
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "RED BELLIED WOODPECKER" ; Times: 1
+	Query: "la joya veracruz" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "HAIRY WOODPECKER" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Progne elegans" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "NORTHERN FLICKER" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "STERNULA ANTILLARUM" ; Times: 1
+	Query: "locality:nome country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+
+
+End of report.
