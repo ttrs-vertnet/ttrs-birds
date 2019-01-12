@@ -1,0 +1,77 @@
+Report for Institution Code TTRS, Resource ttrs_birds
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 46
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Venezuela ; Times: 4
+	Country: Peru ; Times: 1
+	Country: France ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-17 ; Times: 2
+	Date: 2018-12-13 ; Times: 5
+	Date: 2018-12-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Thalasseus sandvicensis mappable:1" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 3
+	Query: "chordeiles gundlachii" ; Times: 4
+	Query: "elf" ; Times: 1
+	Query: "Hydrocoloeus minutus" ; Times: 1
+	Query: "common gallinule" ; Times: 2
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "pterodroma hasitata vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Charadrius wilsonia" ; Times: 1
+	Query: "pterodroma hasitata vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 809 download events in this period)
+Total number of records downloaded: 31
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Venezuela ; Times: 1
+	Country: India ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-20 ; Times: 7
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-17 ; Times: 4
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "curve-billed thrasher" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "verdin" ; Times: 1
+	Query: "chordeiles gundlachii" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "black throated sparrow" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "cactus wren" ; Times: 1
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+
+
+End of report.
