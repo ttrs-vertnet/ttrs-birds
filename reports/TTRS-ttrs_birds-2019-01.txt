@@ -1,0 +1,84 @@
+Report for Institution Code TTRS, Resource ttrs_birds
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 58
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Peru ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-31 ; Times: 2
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-06 ; Times: 2
+	Date: 2019-01-09 ; Times: 5
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-11 ; Times: 7
+	Date: 2019-01-12 ; Times: 3
+	Date: 2019-01-13 ; Times: 3
+	Date: 2019-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "little egret" ; Times: 1
+	Query: "Nomonyx dominicus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Vireo crassirostris 1886" ; Times: 2
+	Query: "Buteo brachyurus" ; Times: 2
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Anas bahamensis" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "red-cockaded woodpecker" ; Times: 1
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "brown-capped rosy finch" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 2
+	Query: "red bellied woodpecker" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "brown-capped rosy-finch" ; Times: 2
+	Query: "Rostrhamus sociabilis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 962 download events in this period)
+Total number of records downloaded: 49
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 3
+	Date: 2019-01-15 ; Times: 3
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-11 ; Times: 3
+	Date: 2019-01-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Melanerpes uropygialis" ; Times: 1
+	Query: "reddish egret" ; Times: 1
+	Query: "Leucosticte australis" ; Times: 2
+	Query: "melanerpes uropygialis" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Leucosticte tephrocotis" ; Times: 2
+	Query: "Asio flammeus" ; Times: 1
+	Query: "rosy finch" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "Polioptila melanura" ; Times: 1
+
+
+End of report.
