@@ -1,0 +1,75 @@
+Report for Institution Code TTRS, Resource ttrs_birds
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 23
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Chile ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 2
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-18 ; Times: 6
+	Date: 2019-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; institutioncode:TTRS" ; Times: 1
+	Query: "Thalasseus sandvicensis mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 1
+	Query: "Pluvialis squatarola mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "Oxyura jamaicensis mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Egretta caerulea mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Calidris canutus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Dendrocygna bicolor mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1182 download events in this period)
+Total number of records downloaded: 279
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-06 ; Times: 4
+	Date: 2019-06-07 ; Times: 4
+	Date: 2019-06-04 ; Times: 17
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-11 ; Times: 1
+	Date: 2019-06-03 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "bald eagle" ; Times: 7
+	Query: "cathartes aura" ; Times: 2
+	Query: "snowy owl" ; Times: 1
+	Query: "elf owl" ; Times: 1
+	Query: "Cedar Waxwing" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "Bald Eagle" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Barn Owl" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "california condor" ; Times: 1
+	Query: "White crowned Sparrow" ; Times: 1
+	Query: "ruby throated hummingbird" ; Times: 2
+	Query: "Yellow bellied sapsucker" ; Times: 1
+	Query: "veery" ; Times: 1
+	Query: "cougar" ; Times: 5
+	Query: "ruby-throated hummingbird" ; Times: 2
+	Query: "golden eagle" ; Times: 1
+
+
+End of report.
