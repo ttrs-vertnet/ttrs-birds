@@ -1,0 +1,56 @@
+Report for Institution Code TTRS, Resource ttrs_birds
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 25
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-21 ; Times: 2
+	Date: 2019-12-28 ; Times: 5
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-02 ; Times: 2
+	Date: 2019-12-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Charadrius montanus AND Island" ; Times: 3
+	Query: "Pterodroma hasitata" ; Times: 1
+	Query: "Tachornis phoenicobia" ; Times: 1
+	Query: "Charadrius montanus AND Island NOT LAmb" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Charadrius montanus AND Island NOT Natividad" ; Times: 1
+	Query: "vntype:specimen locality:mayport county:&#34;Duval&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Pterodroma hasitata vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "sitta pusilla vntype:specimen" ; Times: 2
+	Query: "Pterodroma hasitata vntype:specimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 596 download events in this period)
+Total number of records downloaded: 47
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+
+
+End of report.
