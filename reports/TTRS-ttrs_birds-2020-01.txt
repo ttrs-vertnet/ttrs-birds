@@ -1,0 +1,76 @@
+Report for Institution Code TTRS, Resource ttrs_birds
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 14
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Cuba ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Guadeloupe ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-14 ; Times: 2
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "cape may warbler" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "short eared owl" ; Times: 1
+	Query: "jocosus Pycnonotus" ; Times: 1
+	Query: "common poorwill" ; Times: 1
+	Query: "Patagioenas squamosa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1584 download events in this period)
+Total number of records downloaded: 60
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Cuba ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-23 ; Times: 2
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "pterodroma vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "Zenaida aurita" ; Times: 1
+
+
+End of report.
