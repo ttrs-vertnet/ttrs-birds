@@ -1,0 +1,96 @@
+Report for Institution Code TTRS, Resource ttrs_birds
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 100
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: United Kingdom ; Times: 10
+	Country: Unknown ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-20 ; Times: 1
+	Date: 2020-12-06 ; Times: 5
+	Date: 2020-12-18 ; Times: 4
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-08 ; Times: 1
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-11 ; Times: 19
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-04 ; Times: 6
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Tachycineta cyaneoviridis" ; Times: 2
+	Query: "mappable:1 scientificname:Egretta caerulea" ; Times: 1
+	Query: "mappable:1 scientificname:Nyctanassa violacea" ; Times: 1
+	Query: "mappable:1 scientificname:Rynchops niger" ; Times: 1
+	Query: "Calonectris diomedea" ; Times: 1
+	Query: "mappable:1 scientificname:Charadrius wilsonia" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "mappable:1 scientificname:Gallinula galeata" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "elf" ; Times: 7
+	Query: "Anas strepera" ; Times: 1
+	Query: "mappable:1 scientificname:Arenaria interpres" ; Times: 2
+	Query: "mappable:1 scientificname:Chordeiles acutipennis" ; Times: 1
+	Query: "Pterodroma hasitata vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "mappable:1 scientificname:Mycteria americana" ; Times: 1
+	Query: "class:aves locality:Choctawhatchee River" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "mappable:1 scientificname:Cathartes aura" ; Times: 1
+	Query: "Puffinus gravis" ; Times: 1
+	Query: "mappable:1 scientificname:Dendrocygna bicolor" ; Times: 1
+	Query: "mappable:1 scientificname:Haematopus palliatus" ; Times: 1
+	Query: "mappable:1 scientificname:Actitis macularius" ; Times: 2
+	Query: "mappable:1 scientificname:Anhinga anhinga" ; Times: 4
+	Query: "class:aves locality:Escambia River" ; Times: 1
+	Query: "class:aves locality:Pascagoula" ; Times: 1
+	Query: "mappable:1 scientificname:Columbina passerina" ; Times: 2
+	Query: "Pterodroma hasitata" ; Times: 1
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "mappable:1 scientificname:Ardea alba" ; Times: 1
+	Query: "mappable:1 scientificname:Coragyps atratus" ; Times: 1
+	Query: "mappable:1 scientificname:Rallus longirostris" ; Times: 1
+	Query: "mappable:1 scientificname:Ixobrychus exilis" ; Times: 1
+	Query: "mappable:1 scientificname:Bubulcus ibis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 705 download events in this period)
+Total number of records downloaded: 67
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 4
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-02 ; Times: 2
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves locality:Choctawhatchee River" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "class:aves country:Brazil" ; Times: 4
+	Query: "mallard" ; Times: 1
+	Query: "Woodpecker" ; Times: 1
+	Query: "class:aves locality:Pascagoula" ; Times: 1
+	Query: "class:aves locality:Escambia River" ; Times: 1
+
+
+End of report.
